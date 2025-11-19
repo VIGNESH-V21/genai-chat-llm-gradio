@@ -71,3 +71,5 @@ demo.launch()
 
 
 ### RESULT:
+The "Chat with LLM" application was successfully designed and deployed using the Gradio Blocks framework, allowing seamless user interaction with a large language model.
+
